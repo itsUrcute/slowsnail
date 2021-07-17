@@ -43,4 +43,4 @@ function slowsnailize(string) {
   return arrayString.join("");
 }
 
-console.log(slowsnailize("He"));
+console.log(slowsnailize("Hello World"));
