@@ -1,0 +1,9 @@
+{
+  "name": "slowsnail",
+  "version": "1.0.0",
+  "description": "Change every character in a string with 🐌, but in a very slow way",
+  "main": "index.js",
+  "repository": "https://github.com/gigantino/slowsnail.git",
+  "author": "Sean <sean@gunter.land>",
+  "license": "MIT"
+}
